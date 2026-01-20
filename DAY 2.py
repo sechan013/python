@@ -19,7 +19,7 @@ print('마지막 줄')
 
 def add():
     result = a + b
-    print('result =', result)
+    print('result1 =', result)
 
 a = 3
 b = 5
@@ -30,7 +30,7 @@ add()
 
 def calculate(q, w, e): # 매개변수, 함수 밖의 변수와는 분리됨
     result = q + w - e
-    print('result =', result)
+    print('result1 =', result)
 
 x = 1
 y = 2

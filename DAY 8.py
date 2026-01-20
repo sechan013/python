@@ -33,5 +33,8 @@ print(hudred_after) # 100일 뒤에 오전 9시로 바꾸기
 
 
 
+a = input()
+b = input()
 
+print(a + b)
 ## ✍️ 주요 코드 예제

@@ -30,9 +30,9 @@ print(list1) # 순서대로 정리
 # 리스트와 문자열
 
 str = "안녕하세요"
-print(str.index('안'))
-print(str[1])
-print("하" in str)
+print(str.index('안'))  # 위치 찾기
+print(str[1]) # 위치에 있는 값 출력
+print("하" in str) # 있는지 확인
 
 # 리스트와 문자열은 유사, 서로 변환 가능
 
